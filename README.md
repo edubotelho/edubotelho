@@ -9,8 +9,9 @@
     <img align="right" alt="Edu-yoda" width="150" src="gifbabyyoda.gif">
 
   </div>
-    
-  ##
+  
+   ##
+   
   <div> 
     
    <a href = "mailto:edusouzabo@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
