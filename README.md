@@ -4,24 +4,15 @@
   <img src="neural-pulse-lattice.svg" alt="Eduardo Botelho — neural pulse lattice" width="100%" />
 </p>
   
-  <a href="https://github.com/edubotelho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edubotelho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubotelho&layout=compact&langs_count=7&theme=midnight-purple"/>
-  </div>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Edu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Edu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Edu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Edu-yoda" width="150" src="gifbabyyoda.gif">
 
-  </div>
-  
-   ##
-   
-  <div> 
-    
-   <a href = "mailto:edusouzabo@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-  <a href="https://instagram.com/dudubotelho_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   
-  </div>
 
+
+<p align="center">
+  <img height="175" alt="stats" src="https://github-readme-stats.vercel.app/api?username=edubotelho&show_icons=true&hide_rank=false&custom_title=%2F%2F%20stats&bg_color=050810&border_color=1a2a4a&title_color=4fbcff&text_color=a5b4cf&icon_color=a78bfa&ring_color=fef3c7&border_radius=8" />
+  <img height="175" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubotelho&layout=compact&langs_count=6&custom_title=%2F%2F%20linguagens&bg_color=050810&border_color=1a2a4a&title_color=4fbcff&text_color=a5b4cf&border_radius=8" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/edubotelho/edubotelho/output/github-snake-neural.svg" alt="snake" width="100%" />
+</p>
