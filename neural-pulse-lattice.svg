@@ -150,8 +150,8 @@
 
   <!-- Side panel -->
   <g font-family="'JetBrains Mono', 'IBM Plex Mono', ui-monospace, monospace" fill="#a5b4cf">
-    <text x="840" y="80" font-size="10" letter-spacing="4" fill="#4fbcff">NEURAL/PULSE/LATTICE</text>
-    <text x="840" y="98" font-size="10" letter-spacing="4" fill="#a5b4cf">v.2026.10 · ONLINE</text>
+    <text x="840" y="80" font-size="10" letter-spacing="4" fill="#4fbcff">SELECT/*/FROM/EDUARDO</text>
+    <text x="840" y="98" font-size="10" letter-spacing="4" fill="#a5b4cf">STATUS: CAFE.EXE</text>
 
     <text x="840" y="148" font-family="'Space Grotesk', system-ui, sans-serif" font-size="34" font-weight="700" fill="#fef3c7" letter-spacing="-0.5">Eduardo Botelho</text>
     <text x="840" y="170" font-size="11" letter-spacing="2" fill="#4fbcff">JAVASCRIPT · PYTHON · PHP · DADOS</text>
