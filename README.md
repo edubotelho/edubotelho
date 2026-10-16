@@ -1,7 +1,7 @@
 
 
   <p align="center">
-  <img src="./assets/neural-pulse-lattice.svg" alt="Eduardo Botelho — neural pulse lattice" width="100%" />
+  <img src="neural-pulse-lattice.svg" alt="Eduardo Botelho — neural pulse lattice" width="100%" />
 </p>
   
   <a href="https://github.com/edubotelho">
