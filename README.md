@@ -1,6 +1,8 @@
 
 
-  
+  <p align="center">
+  <img src="./assets/neural-pulse-lattice.svg" alt="Eduardo Botelho — neural pulse lattice" width="100%" />
+</p>
   
   <a href="https://github.com/edubotelho">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edubotelho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
