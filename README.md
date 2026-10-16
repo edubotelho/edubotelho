@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="./assets/neural-pulse-lattice.svg" alt="{{name}} — neural pulse lattice" width="100%" />
+</p>
+
+### transmission
+
+{{transmission_paragraph}}
+
+### nodes (currently active)
+
+- `n01` · {{node_one_label}} — {{node_one_text}}
+- `n02` · {{node_two_label}} — {{node_two_text}}
+- `n03` · {{node_three_label}} — {{node_three_text}}
+
+### endpoints
+
+[`{{website}}`]({{website_url}}) · [`@{{twitter}}`](https://twitter.com/{{twitter}}) · [`{{email}}`](mailto:{{email}})
+
+  
+  
   <a href="https://github.com/edubotelho">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edubotelho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubotelho&layout=compact&langs_count=7&theme=midnight-purple"/>
